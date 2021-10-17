@@ -1,6 +1,6 @@
 # stockpred
 
-### Important####
+### Important
 
 Please ensure that mlflow and docker are running on your system locally. 
 
