@@ -1,0 +1,15 @@
+artifact_uri: file:///home/irfan/mlflow/stockpred/mlruns/0/f6a191e0a1c948378eaee4c29e674d18/artifacts
+end_time: 1634509618711
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: f6a191e0a1c948378eaee4c29e674d18
+run_uuid: f6a191e0a1c948378eaee4c29e674d18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1634509592646
+status: 3
+tags: []
+user_id: irfan
